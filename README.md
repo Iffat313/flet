@@ -21,7 +21,7 @@ Creating a virtual enviorment:
 - python -m venv .venv
 - Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 and then:
-.\.venv\Scripts\activate
+  .venv\Scripts\activate
 
 What's next?:
 - You can choose to run the code. Running the code will bring up "flet" as app or through a web browser.
