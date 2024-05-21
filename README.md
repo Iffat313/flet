@@ -25,7 +25,7 @@ and then:
 
 What's next?:
 - You can choose to run the code. Running the code will bring up "flet" as app or through a web browser.
-- However, in order for this to work, you must do so following the picture below:
+- However, in order for this to work, you must do so following the pictures in the repository.
 
 
 
