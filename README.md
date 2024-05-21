@@ -26,7 +26,12 @@ and then:
 What's next?:
 - You can choose to run the code. Running the code will bring up "flet" as app or through a web browser.
 - However, in order for this to work, you must do so following the pictures in the repository.
+- Please note "cd desktop/flet" is a path file to the directory that stores the python file. I named
+  flet for the sake of consistency.
 
+  
+
+![EV_Process](https://github.com/Iffat313/flet/assets/139935009/e5c9a016-e104-475b-b342-9fe42802dace)
 
 
 
